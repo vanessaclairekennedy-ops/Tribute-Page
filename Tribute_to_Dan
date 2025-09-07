@@ -1,0 +1,107 @@
+<DOCTYPE html>
+<html lang="en">
+
+
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title id="title">Daniel P. Kennedy</title>
+   <link rel="stylesheet" href="styles.css">
+ </head>
+
+
+<body>
+  <main id="main">
+    <h1>Daniel P. Kennedy</h1>
+    <p id="subtitle" name="subtitle"> A man of many identities:</p>
+
+
+
+
+<!-- #img element, img-div, img-caption -->
+    <div id="img-div">
+      <img id="image" alt="incredibly handsome person" src="https://m.media-amazon.com/images/S/amzn-author-media-prod/nfmpolg83ghbfqb0jp2ov25mi0._SX300_CR0%2C0%2C300%2C300_.jpg"></img>
+      <figcaption id="img-caption" name="img-caption">Figure 1: Incredibly beautiful person</figcaption>
+    </div>
+
+
+
+
+<!-- Tribute stuff: tribute-info, need  -->
+    <div>
+      <h2 id="tribute-info">Let's Learn About Dan</h2>
+      <p class="tribute-list">He has many identities.
+       <ul id="tribute-list" class="tribute-list">
+        <li>Teacher</li>
+        <li>Writer</li>
+        <li>Musician</li>
+        <li>Dad</li>
+        <li>Best Friend</li>
+       </ul>
+      </p>
+        <section id="section1"><span class="section-title">Let's start with...</span>
+          <h3 id="identityT" class="identity">Teacher</h3>
+            <div id="teacher-img-div">
+              <img id="image" class="image" src="https://www.splcenter.org/wp-content/uploads/2018/01/web-teaching-hard-history-american-slavery-tcallery.png"></img>
+             <figcaption>photo credit: can't rememeber</figcaption>
+            </div>
+            <p>Dan started teaching a little later in life. And I can't help but think that has made him a better teacher. He treats his students with respect. Instills empathy and weaves multiple perspectives into his lessons. Without fail, he always has at least one student each year confess that his class kept them going. Very few teachers can say the same.</p>
+        </section>
+
+
+
+
+<!-- Writer Section: tribute-link -->
+        <section id="section2"><span class="section-title">He is also a...</span>
+          <h3 id="identityW" class="identity">Writer</h3>
+            <div id="writer-img-div">
+              <img id="writer-img" src="https://m.media-amazon.com/images/I/61jY9bE12lS._SY522_.jpg" class="image"></img>
+              <figcaption>photo credit: can't rememeber</figcaption>
+            </div>
+            <p>When I first learned Dan was a writer, I was instantly interested in his work. I read anything I could get my grubby mits on. It felt like a secret window into his past, Dan before he became a teacher. And after seven years together, he has started writing again. I can't wait to read what he creates next (or I could never see it and that is OK too!)</p>
+             
+             <p>If you would like to know more, please refer to <a id="tribute-link" target="_blank" href="https://www.amazon.com/stores/author/B0D6LQ6K1W/about?ingress=0&visitId=03f68220-935d-483e-b62b-50f077cb8e39">his bio</a> on Amazon.</p>
+        </section>
+
+
+
+
+<!-- Musician -->
+        <section id="section3"><span class="section-title">Don't forget he is a...</span>
+          <h3 id="identityM" class="identity">Musician</h3>
+            <div id="video-div">
+              <iframe width="320" height="240" src="https://www.youtube.com/watch?v=7voqJeOzQIk&list=RD7voqJeOzQIk&start_radio=1" type="video/mp4">
+              </iframe>
+              <figcaption>video recorded by Dan's anonymous audience member</figcaption>
+               <p>I haven't gotten to hear as much as I would like of his music. It took me a bit of digging to even find the video above. But whenever I see him perform, he does so with a level of confidence I can never muster. His lyrics are intellegent. His voice is one of my most favorite sounds, and I often replay the videos he recorded early on in our relationship.</p>
+            </div>
+        </section>
+
+
+
+
+<!-- Father -->
+        <section id="section4"><span class="section-title">Two people call him...</span>
+          <h3 id="identityF" class="identity">Dad</h3>
+            <div id="father-img-div">
+              <img src="https://cdn.vectorstock.com/i/1000x1000/82/06/silhouette-hands-parent-and-baby-vector-35438206.webp" alt="holding hands" id="image-father" class="image" ></img>
+              <figcaption>photo credit: can't rememeber</figcaption>
+              <p>He really is the best dad for our kids. Incredibly patient with Eliot when she is stimming out or emotionally disregulated. He is able to laugh when Rilo is acting like a complete animal but cooly redirects him when it gets messy. I do not know how many people could calmly exist around 2 screeching children as they stampede through the house. Yeah, we both have our moments, but, for the most part, he swims through our chaos mostly unscathed. Somehow.</p>
+            </div>
+        </section>
+
+
+
+
+<!-- Best Friend Section -->
+        <section><span class="section-title">Only I get to call him...</span>
+          <h3 id="identityB" class="identity">Best Friend</h3>
+            <div>
+              <img id="image" class="image" src="https://www.thetrevorproject.org/wp-content/uploads/2021/07/2024_Guide_How-to-Support-Bisexual-Young-People_Blog-1080x1080-1-2048x2048.png"></img>
+              <figcaption>photo credit: can't rememeber</figcaption>
+              <p>Pretty much the best and only person for me. He is smart, honest, handsome, hilarious, fascinating, thoughtful, moody, gentle, incredibly organized, and consistant. He stayed through my unexpected changes--started out dating a blonde cis-het woman. He ended up with a brown-haired pansexual, genderfluid queer. And he still loves me. I am not sure how I got so lucky, but here I am. Gotta say, life is pretty good.</p>
+            </div>
+    </div>
+  </main>
+</body>
+</html>
